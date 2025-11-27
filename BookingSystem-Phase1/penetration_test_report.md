@@ -2,7 +2,7 @@
 
 ## 1️⃣ Introduction
 
-### Tester(s):
+### Tester:
 
 **Name:** Prodip Saha
 
@@ -41,7 +41,7 @@ Focus areas include input validation, authentication logic, error handling, Priv
 - Tools: Docker Desktop (WSL2), Browser, Manual Testing  
 - Application runtime: Containerized Web App (Port 8000)  
 - Database: PostgreSQL (Containerized, Port 5432)  
-- Browsers used: Chrome / Edge  
+- Browsers used: Chrome
 - Container Images:
   - `cybersec-web-phase1-part1`
   - `cybersec-db-phase1-part1`
